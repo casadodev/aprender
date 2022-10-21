@@ -1,4 +1,4 @@
-# Este é um repositório colaborativo, para que todas as pessoas tenham a possíbilidade de Aprender cada vez mais sobre Tecnologia
+# Este é um repositório colaborativo da Casa do Dev, para que todas as pessoas tenham a possíbilidade de Aprender cada vez mais sobre Tecnologia
 Uma grande e incrível lista, super completa, para ajudar quem está iniciando na carreira de tecnologia 🚀
 
 Faça um fork e ajude a completar esta super lista para que todas as pessoas possam *aprender*

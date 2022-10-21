@@ -18,5 +18,5 @@ else
 	mkdir cloned
 	cd cloned
 	git clone "$REPO_TO_LINT" .
-	npx awesome-lint
+	npx aprender-lint
 fi

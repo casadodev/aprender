@@ -21,6 +21,11 @@ Faça um fork e ajude a completar esta super lista para que todas as pessoas pos
 
 
 # Artigos importantes para iniciantes
+[O que fazer quando você não está conseguindo evoluir aprendendo programação?](https://casado.dev/o-que-fazer-quando-voce-nao-esta-conseguindo-evoluir-aprendendo-programacao/programacao/)
+
+[Saiba como conseguir um emprego de programação mesmo sendo iniciante](https://casado.dev/saiba-como-conseguir-um-emprego-de-programacao-mesmo-sendo-iniciante-2/programacao/)
+
+[Como ter seu LinkedIn perfeito e ser chamado para muitas entrevistas](https://casado.dev/como-ter-o-linkedin-perfeito-e-ser-chamado-para-entrevistas-de-programacao-mais-rapido/programacao/)
 
 
 

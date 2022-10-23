@@ -43,6 +43,7 @@ Faça um fork e ajude a completar esta super lista para que todas as pessoas pos
 
 # DevOps, SRE e Cloud
 [Diversos tutoriais para seguir em 90 Dias de Devops](https://github.com/MichaelCade/90DaysOfDevOps)
+[Lista com roadmap em contrução para Cloud](https://github.com/MichaelCade/100DaysOfCloud)
 
 
 

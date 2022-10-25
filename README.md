@@ -39,7 +39,7 @@ IDE para Java:
 [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 
 # Livros
-[Livros para expandir seus conhecimentos!]()
+[Livros para expandir seus conhecimentos!](https://github.com/BrunoHoinacki/aprender/tree/main/Livros)
 
 
 # Banco de Dados

@@ -6,7 +6,9 @@ Faça um fork e ajude a completar esta super lista para que todas as pessoas pos
 
 # Linguagens de Programação
 
+[Java](https://www.oracle.com/br/java/technologies/downloads/)
 
+[Python](https://www.python.org/downloads/)
 
 # Frameworks Frontend
 
@@ -30,11 +32,14 @@ Faça um fork e ajude a completar esta super lista para que todas as pessoas pos
 
 
 # Editores de Código - IDE
+IDE para Java:
 
+[Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-09/R/eclipse-inst-jre-win64.exe)
 
+[IntelliJ](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 
 # Livros
-
+[Livros para expandir seus conhecimentos!]()
 
 
 # Banco de Dados

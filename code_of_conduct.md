@@ -31,6 +31,7 @@ A liderança da comunidade é responsável por esclarecer e aplicar nossos padr�
 
 A liderança da comunidade tem o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, códigos, edições na wiki, erros e outras contribuições que não estão alinhadas com este Código de Conduta e irá comunicar as razões por trás das decisões da moderação quando for apropriado.
 
+
 ## Escopo
 
 Este Código de Conduta se aplica dentro de todos os espaços da comunidade e também se aplica quando uma pessoa estiver representando oficialmente a comunidade em espaços públicos.
@@ -38,7 +39,7 @@ Exemplos de representação da nossa comunidade incluem usar um endereço de e-m
 
 ## Aplicação
 
-Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, via contato [INSERIR MÉTODO DE CONTATO].
+Ocorrências de comportamentos abusivos, de assédio ou que sejam inaceitáveis por qualquer outro motivo poderão ser reportadas para a liderança da comunidade, responsável pela aplicação, em nosso [Discord](https://casado.dev/discord) entrando em contato com qualquer pessoa do grupo *@SUPER MODS* (verifique os nomes de usuário em laranja)..
 
 Todas as reclamações serão revisadas e investigadas imediatamente e de maneira justa.
 

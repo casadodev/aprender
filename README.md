@@ -6,7 +6,11 @@ Faça um fork e ajude a completar esta super lista para que todas as pessoas pos
 
 # Linguagens de Programação
 
-
+#### Linguagens
+Linguagem | Autor(es) | Tipagem | Site Oficial |
+:---- | :----: |  :----: |  :----: |
+Lua | Roberto Ierusalimschy | Dinâmica | [Link](http://www.lua.org/manual/5.4/) |
+Python | Guido van Rossum | Dinâmica | [Link](https://docs.python.org/3/index.html) |
 
 # Frameworks Frontend
 
@@ -34,8 +38,13 @@ Faça um fork e ajude a completar esta super lista para que todas as pessoas pos
 
 
 # Livros
-
-
+    
+##### Algoritmos
+    
+Livro | Autor(es) | Linguagem |
+:---- | :----: | :----: |
+[Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) | Adolfo José G. S. Baudson | PT-BR |
+[Algorithms](https://en.wikibooks.org/wiki/Algorithms) | Wikibooks | ENG |
 
 # Banco de Dados
 
